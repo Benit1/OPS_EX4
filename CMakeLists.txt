@@ -3,4 +3,4 @@ project(OPS_EX4)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OPS_EX4 server.c reactorAPI.c reactorAPI.h)
+add_executable(OPS_EX4 st_reactor.c st_reactor.h react_server.c makefile)
